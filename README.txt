@@ -4,7 +4,7 @@ In Andrew's own words: “When I first heard about shaders, I have to admit they
 
 His blog includes a GLSL interpreter that gets the “boilerplate” code out of the way and lets you experiment with the core instructions of the shader. I thought it would be interesting though to see if these examples could be ported to Processing so here they are.
 
-The sketch folder, includes a glsl file (with comments) that regroups all the shaders from the ThNdl articles published so far.
+The sketch folder, includes a glsl file (with explanatory comments) that regroups all the shaders from the ThNdl articles published so far.
 
 The sketch and shader file are intended to accompany the reading of the tutorials. You will need Processing 2.0b6 or superior.
 
