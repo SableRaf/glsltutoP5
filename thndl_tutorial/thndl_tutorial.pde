@@ -7,9 +7,9 @@
  * Original code ©2012 Andrew Baldwin
  * Processing port by Raphaël de Courville
  
- * Tested in Processing 2.0b6
+ * Tested in Processing 2.0b8
  * Shader support is still beta in Processing at the moment 
- * so this sketch might not work anymore in the final release.
+ * so this sketch might not work anymore later releases.
  
  * Left-click to change the background
  

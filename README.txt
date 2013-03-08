@@ -8,7 +8,9 @@ The sketch folder, includes a glsl file (with explanatory comments) that regroup
 
 The sketch and shader file are intended to accompany the reading of the tutorials. You will need Processing 2.0b6 or superior.
 
-Note for mac users: Xcode does syntax coloring for GLSL.
+Note: If you want to edit your shader files in the same editor as your .pde, you should have a look at Sublime Text 2 with this Processing package installed (https://github.com/b-g/processing-sublime).
+
+Note for mac users: Xcode also does syntax coloring for GLSL.
 
 Many thanks to Adrew Baldwing and to Andres Colubri for his work on shaders in Processing 2.0 and his articles that were a lot of help (http://codeanticode.wordpress.com/).
 

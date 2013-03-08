@@ -1,6 +1,9 @@
 #ifdef GL_ES
 precision highp float;
+precision highp int;
 #endif
+
+#define PROCESSING_COLOR_SHADER
 
 // This is the interface between the sketch and the shader
 // “Uniforms act as parameters that the user of a shader program
