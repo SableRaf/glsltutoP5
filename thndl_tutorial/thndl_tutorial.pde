@@ -7,8 +7,8 @@
  * Original code ©2012 Andrew Baldwin
  * Processing port by Raphaël de Courville
  
- * Tested in Processing 2.0b8
- * this sketch might not work anymore later releases.
+ * Tested in Processing 2.0b6
+ * this sketch might not work with later releases.
  
  * Left-click to change the background
  
@@ -50,6 +50,7 @@ void draw() {
   // Just edit and save shader.frag to apply the changes.
   myShader = loadShader("shader.frag");
   myShader.set("resolution", float(width), float(height));
+  myShader.set("mouse", float(mouseX), float(mouseY));
   shader(myShader);
   
   noStroke();

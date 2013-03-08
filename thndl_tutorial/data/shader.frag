@@ -85,8 +85,8 @@ void main(void)
     
  //-- Example 2 --//
     
- //float d = length(c.xy);
- //f = vec4(d,d,d, 1.0);
+ // float d = length(c.xy);
+ // f = vec4(d,d,d, 1.0);
     
     
  //-- Example 3 --//
