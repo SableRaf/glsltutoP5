@@ -12,6 +12,9 @@ uniform float time;
 uniform vec2 resolution;
 uniform vec2 mouse;
 
+// Required by Processing's default vertex shader
+varying vec4 vertColor;
+
 // f will be used to store the color of the current fragment
 vec4 f = vec4(1.,1.,1.,1.);
 
